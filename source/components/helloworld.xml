@@ -2,7 +2,7 @@
 <component name="HelloWorld" extends="Scene"> 
 	<children>
       <Label id="myLabel" 
-      	text="Hello World!"
+      	text="Welcome to MinTV"
       	width="1280" 
       	height="720" 
       	horizAlign="center"
